@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nidhi Bhide</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
+<h3 align="center" style="color: #4A90E2; font-size: 24px;">
+  <marquee behavior="scroll" direction="left" style="color: #E94E77;">
+    I am a passionate Full Stack Developer from India, eager to dive into new challenges as a fresher!
+  </marquee>
+</h3><img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhibhide&label=Profile%20views&color=0e75b6&style=flat" alt="nidhibhide" /> </p>
@@ -29,6 +32,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhibhide&show_icons=true&locale=en" alt="nidhibhide" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidhibhide&" alt="nidhibhide" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
