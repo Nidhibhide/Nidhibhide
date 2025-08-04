@@ -1,50 +1,69 @@
 <h1 align="center">Hi 👋, I'm Nidhi Bhide</h1>
-<h3 align="center" style="color: #4A90E2; font-size: 24px;">
-  <marquee behavior="scroll" direction="left" style="color: #E94E77;">
-    I am a passionate Full Stack Developer , eager to dive into new challenges as a fresher!
-  </marquee>
-</h3><img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
+<h3 align="center" style="color: #4A90E2;">
+  🚀 Full Stack Developer | MERN Stack | Open to New Opportunities
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhibhide&label=Profile%20views&color=0e75b6&style=flat" alt="nidhibhide" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working in **Smak Tech**
-
-- 💬 Ask me about **MERN Stack**
-
-- 📫 How to reach me **nidhibhide144@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nidhi-bhide-1029742b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhi-bhide-1029742b7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nidhibhide144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nidhibhide144" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" alt="Coding" width="400"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nidhibhide&label=Profile%20views&color=0e75b6&style=flat" alt="nidhibhide" />
+</p>
+
+
+### 🌟 About Me
+- 🔭 Currently working as a **Backend Developer at SMAK Tech**
+- 💡 1+ year of hands-on experience building **scalable web apps** using the **MERN Stack**
+- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB**
+- 📬 Reach me at **nidhibhide144@gmail.com**
+
+
+### 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <a href="https://linkedin.com/in/nidhi-bhide-1029742b7" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhibhide&show_icons=true&locale=en&layout=compact" alt="nidhibhide" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhibhide&show_icons=true&locale=en" alt="nidhibhide" /></p>
+### 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidhibhide&" alt="nidhibhide" /></p>
+#### 👩‍💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+#### 🌐 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=react&logoColor=white)
+
+#### 🧩 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-FF6F00?style=flat)
+
+#### 🛢️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+#### ⚙️ Tools
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhibhide&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhibhide&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhibhide" alt="GitHub Streak" />
+</p>
